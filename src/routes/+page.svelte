@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import { base } from "$app/paths";
 </script>
 <html lang="en">
@@ -26,7 +26,7 @@
 		</p>
 		<br /><br />
 
-		<a href="/principles/">Twelve Principles of Fiilis Software</a>
+		<a href="/principles">Twelve Principles of Fiilis Software</a>
 	</body>
 
 	<style>
