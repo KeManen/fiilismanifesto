@@ -1,5 +1,14 @@
+<html lang="en">
+<head>
+<title>Principles behind the Fiilis Manifesto</title>
+<meta content="text/html: charset=utf-8" />
+</head>
+<body>
+
 <h1><b>Principles behind the Fiilis Manifesto</b></h1>
+<br><br><br>
 <h2>We follow these principles:</h2>
+<br><br>
 
 <p>Our top priority is to have good Fiilis with continuous delivery of valuable software.</p>
 
@@ -31,3 +40,26 @@ emerge from Fiilis.</p>
 
 <p>At regular intervals, the team reflects on how
 to enhance the Fiilis by tuning and adjusting behavior to amplify positivity and satisfaction.</p>
+
+<br><br>
+
+<a href="/">Return to Manifesto</a>
+</body>
+
+<style>
+p {
+    text-align: justify
+}
+
+h1 {
+    text-align: center
+}
+
+h2 {
+    text-align: center
+}
+
+
+</style>
+
+</html>
