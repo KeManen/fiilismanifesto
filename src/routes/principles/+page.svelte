@@ -1,3 +1,6 @@
+<script>
+	import { base } from "$app/paths";
+</script>
 <html lang="en">
 	<head>
 		<title>Principles behind the Fiilis Manifesto</title>

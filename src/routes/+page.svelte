@@ -1,3 +1,6 @@
+<script>
+	import { base } from "$app/paths";
+</script>
 <html lang="en">
 	<head>
 		<title>Manifesto for Fiilis Software Development</title>
