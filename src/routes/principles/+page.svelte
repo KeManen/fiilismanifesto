@@ -58,8 +58,6 @@
 		</p>
 
 		<br /><br />
-
-		<a href="/">Return to Manifesto</a>
 	</body>
 
 	<style>

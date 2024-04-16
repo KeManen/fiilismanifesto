@@ -26,7 +26,6 @@
 		</p>
 		<br /><br />
 
-		<a href="/principles">Twelve Principles of Fiilis Software</a>
 	</body>
 
 	<style>
